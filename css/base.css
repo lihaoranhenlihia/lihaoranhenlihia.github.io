@@ -1,8 +1,18 @@
 body{
-    background-color: pink;
-    color: lightgreen;
-    font-size: 100px;
+    background-color: pink;   
+}
+.mother{
+    display: block;
+    color: rgb(20, 233, 20);
+    font-size: 10px;
     text-align: center;
     margin-top: 100px;
-    
+}
+.son{
+    display: block;
+   float: right;
+    margin-right: 100px;
+    color: black;
+    font-size: 20px;
+    margin-top: 200px;
 }
